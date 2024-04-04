@@ -6,3 +6,11 @@
   background-color: #ffffff;
   border-bottom: 1px solid #333333;
 }
+
+.horizontalBars {
+    color: #ffffff;
+  }
+  
+  .horizontalBars:hover {
+    color: #929292;
+  }
